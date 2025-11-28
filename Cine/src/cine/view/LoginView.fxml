@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="cine.controller.LoginController"
+      spacing="15" alignment="CENTER"
+      prefWidth="350" prefHeight="400"
+      style="-fx-background-color: #f4f4f4;">
+
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <Text text="Cine - Login / Registro"
+          style="-fx-font-size: 20px; -fx-font-weight: bold;" />
+
+    <!-- EMAIL -->
+    <Label text="Email:" />
+    <TextField fx:id="emailField" promptText="Ingrese su email" />
+
+    <!-- PASSWORD -->
+    <Label text="Contraseña:" />
+    <PasswordField fx:id="passField" promptText="Ingrese su contraseña" />
+
+    <!-- NOMBRE PARA REGISTRO -->
+    <Label text="Nombre (solo para registro):" />
+    <TextField fx:id="nombreField" promptText="Ingrese su nombre" />
+
+    <!-- BOTONES -->
+    <HBox spacing="10" alignment="CENTER">
+        <Button text="Iniciar Sesión"
+                prefWidth="120"
+                onAction="#login" />
+
+        <Button text="Registrar"
+                prefWidth="120"
+                onAction="#registrar" />
+    </HBox>
+
+</VBox>
