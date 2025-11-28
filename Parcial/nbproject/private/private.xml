@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/model/Cliente.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/Main.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/persistencia/PersistenciaDatos.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/controller/ButacasController.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/view/LoginView.fxml</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/controller/LoginController.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/model/Cine.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/model/Sala.java</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/view/SalaView.fxml</file>
+            <file>file:/C:/Users/BagnarelliGO/Documents/NetBeansProjects/prueba/src/cine/controller/SalaController.java</file>
+        </group>
+    </open-files>
+</project-private>
